@@ -15,4 +15,10 @@ This project uses a feature-level ensemble method by combining features from mul
 - **Visualization**: Grad-CAM
 - **Development Environment**: Google Colab
 
-## Project Structure
+Sample input image:
+![IM-0041-0001](https://github.com/user-attachments/assets/cc57d3df-58db-4abd-b2df-00788c1c7cbd)
+
+Sample heat map image :
+![Screenshot 2024-10-08 132442](https://github.com/user-attachments/assets/41da4669-31ff-436a-a755-0d13e7554f54)
+
+
