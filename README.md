@@ -21,9 +21,9 @@ Impact on Healthcare: This automated tool aims to bridge the gap in diagnostic c
 - **Visualization**: Grad-CAM
 - **Development Environment**: Google Colab
 
-### Ensemble Model Architecture
+## Ensemble Model Architecture
 Our ensemble approach involves extracting and concatenating features from multiple CNN models at a specific layer (usually the final convolutional layers) before feeding them into a fully connected layer for classification. This approach ensures that the strengths of each architecture are utilized, leading to improved performance over individual models.
-## Architecture Diagram
+### Architecture Diagram
 ![{AB9E1D25-D9E3-4F0D-9CE4-2B3AFF26D5B4}](https://github.com/user-attachments/assets/b34b429d-6502-443c-982b-17ea4aef919b)
 
 ## Sample Outputs:
