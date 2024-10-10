@@ -27,7 +27,7 @@ Our ensemble approach involves extracting and concatenating features from multip
 ![{AB9E1D25-D9E3-4F0D-9CE4-2B3AFF26D5B4}](https://github.com/user-attachments/assets/b34b429d-6502-443c-982b-17ea4aef919b)
 
 ## Sample Outputs:
-- input image:<img src="https://github.com/user-attachments/assets/cc57d3df-58db-4abd-b2df-00788c1c7cbd" alt="IM-0041-0001" width="400"/>
+- input image:<br><img src="https://github.com/user-attachments/assets/cc57d3df-58db-4abd-b2df-00788c1c7cbd" alt="IM-0041-0001" width="400"/>
 - Sample heat map image:<img src="https://github.com/user-attachments/assets/41da4669-31ff-436a-a755-0d13e7554f54" alt="Screenshot 2024-10-08 132442" width="400"/>
 
 ## Future Work
