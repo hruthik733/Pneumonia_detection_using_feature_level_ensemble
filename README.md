@@ -14,6 +14,10 @@ This project uses a feature-level ensemble method by combining features from mul
 - **Pre-trained Models**: VGG19, EfficientNetB0
 - **Visualization**: Grad-CAM
 - **Development Environment**: Google Colab
+
+## Ensemble Model Architecture
+![{AB9E1D25-D9E3-4F0D-9CE4-2B3AFF26D5B4}](https://github.com/user-attachments/assets/b34b429d-6502-443c-982b-17ea4aef919b)
+
 Sample input image:
 <img src="https://github.com/user-attachments/assets/cc57d3df-58db-4abd-b2df-00788c1c7cbd" alt="IM-0041-0001" width="400"/>
 Sample heat map image:
