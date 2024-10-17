@@ -36,3 +36,8 @@ Our ensemble approach involves extracting and concatenating features from multip
 - Deployment: Integrate the model into a user-friendly web interface using Flask or Django for real-world clinical use.
 
 
+## Final Ensemble Model
+
+Here is the final ensemble model. You can check it out here: [Final Ensemble Model](https://drive.google.com/file/d/1otsIiZJ0dxHbyxcCZMYL772bRyQGVdck/view?usp=drive_link).
+
+
