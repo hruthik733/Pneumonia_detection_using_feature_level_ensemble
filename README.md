@@ -1,7 +1,5 @@
 # Pneumonia Detection Using Feature-Level Ensemble of CNNs
 
-https://github.com/user-attachments/assets/7bb4018c-5e54-45ce-a717-8c05a1a76ecc
-
 ## Project Overview
 This project focuses on detecting pneumonia from chest X-ray images using a feature-level ensemble method that combines the strengths of multiple pre-trained Convolutional Neural Network (CNN) models. By leveraging models like VGG19 and EfficientNetB0, we aim to significantly enhance the accuracy of pneumonia detection. Additionally, we integrate Grad-CAM to generate visual heatmaps, allowing for more interpretable predictions by highlighting the areas of the lungs affected by pneumonia. The ultimate goal of this project is to build an efficient diagnostic tool that can assist healthcare professionals, particularly in resource-constrained environments, in making faster and more accurate decisions.
 
@@ -27,11 +25,18 @@ Impact on Healthcare: This automated tool aims to bridge the gap in diagnostic c
 Our ensemble approach involves extracting and concatenating features from multiple CNN models at a specific layer (usually the final convolutional layers) before feeding them into a fully connected layer for classification. This approach ensures that the strengths of each architecture are utilized, leading to improved performance over individual models.
 ### Architecture Diagram
 ![{AB9E1D25-D9E3-4F0D-9CE4-2B3AFF26D5B4}](https://github.com/user-attachments/assets/b34b429d-6502-443c-982b-17ea4aef919b)
-
-## Sample Outputs:
-- input image:<br><img src="https://github.com/user-attachments/assets/cc57d3df-58db-4abd-b2df-00788c1c7cbd" alt="IM-0041-0001" width="400"/>
-- Sample heat map image:<br><img src="https://github.com/user-attachments/assets/41da4669-31ff-436a-a755-0d13e7554f54" alt="Screenshot 2024-10-08 132442" width="400"/>
-
+<table>
+  <tr>
+    <td align="center">
+      <strong>Input Image</strong><br>
+      <img src="https://github.com/user-attachments/assets/cc57d3df-58db-4abd-b2df-00788c1c7cbd" alt="Input Image" width="300"/>
+    </td>
+    <td align="center">
+      <strong>Heatmap Output</strong><br>
+      <img src="https://github.com/user-attachments/assets/41da4669-31ff-436a-a755-0d13e7554f54" alt="Heatmap" width="300"/>
+    </td>
+  </tr>
+</table>
 ## Future Work
 - Model Optimization: Explore additional models for ensembling, such as ResNet or InceptionV3, and fine-tune hyperparameters to improve detection accuracy further.
 - Testing on Multiple Datasets: Validate the model on other medical image datasets (e.g., lung cancer X-rays) to ensure robustness across different respiratory diseases.
@@ -41,5 +46,7 @@ Our ensemble approach involves extracting and concatenating features from multip
 ## Final Ensemble Model
 
 Here is the final ensemble model. You can check it out here: [Final Ensemble Model](https://drive.google.com/file/d/1otsIiZJ0dxHbyxcCZMYL772bRyQGVdck/view?usp=drive_link).
+
+https://github.com/user-attachments/assets/7bb4018c-5e54-45ce-a717-8c05a1a76ecc
 
 
