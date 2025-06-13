@@ -37,6 +37,9 @@ Our ensemble approach involves extracting and concatenating features from multip
     </td>
   </tr>
 </table>
+1.![Screenshot 2024-11-12 200509](https://github.com/user-attachments/assets/4c3ea2f3-3087-4007-9bf4-43759b82356e)
+2.![Screenshot 2024-11-12 200652](https://github.com/user-attachments/assets/0e922614-6181-4099-8600-11c12a03f39b)
+
 ## Future Work
 - Model Optimization: Explore additional models for ensembling, such as ResNet or InceptionV3, and fine-tune hyperparameters to improve detection accuracy further.
 - Testing on Multiple Datasets: Validate the model on other medical image datasets (e.g., lung cancer X-rays) to ensure robustness across different respiratory diseases.
