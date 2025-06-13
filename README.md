@@ -28,17 +28,15 @@ Our ensemble approach involves extracting and concatenating features from multip
 <table>
   <tr>
     <td align="center">
-      <strong>Input Image</strong><br>
-      <img src="https://github.com/user-attachments/assets/cc57d3df-58db-4abd-b2df-00788c1c7cbd" alt="Input Image" width="300"/>
+      <strong>Input X-ray Image</strong><br>
+      <img src="https://github.com/user-attachments/assets/4c3ea2f3-3087-4007-9bf4-43759b82356e" alt="Input X-ray" width="300"/>
     </td>
     <td align="center">
-      <strong>Heatmap Output</strong><br>
-      <img src="https://github.com/user-attachments/assets/41da4669-31ff-436a-a755-0d13e7554f54" alt="Heatmap" width="300"/>
+      <strong>Predicted Output (Heatmap)</strong><br>
+      <img src="https://github.com/user-attachments/assets/0e922614-6181-4099-8600-11c12a03f39b" alt="Heatmap Output" width="300"/>
     </td>
   </tr>
 </table>
-1.![Screenshot 2024-11-12 200509](https://github.com/user-attachments/assets/4c3ea2f3-3087-4007-9bf4-43759b82356e)
-2.![Screenshot 2024-11-12 200652](https://github.com/user-attachments/assets/0e922614-6181-4099-8600-11c12a03f39b)
 
 ## Future Work
 - Model Optimization: Explore additional models for ensembling, such as ResNet or InceptionV3, and fine-tune hyperparameters to improve detection accuracy further.
