@@ -17,7 +17,7 @@ Impact on Healthcare: This automated tool aims to bridge the gap in diagnostic c
 ## Technologies Used
 - **Programming Language**: Python
 - **Deep Learning Framework**: TensorFlow, Keras
-- **Pre-trained Models**: VGG19, EfficientNetB0
+- **Pre-trained Models**: VGG19, EfficientNetB0, DenseNet121
 - **Visualization**: Grad-CAM
 - **Development Environment**: Google Colab
 
