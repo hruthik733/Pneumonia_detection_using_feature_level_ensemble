@@ -51,12 +51,12 @@ Here is the final ensemble model. You can check it out here: [Final Ensemble Mod
 https://github.com/user-attachments/assets/3134196e-d6b6-4092-9317-51d50af2f460
 
 ## 🚀 Live Deployment Available!
-We’ve deployed the Pneumonia Detection Web App for real-time inference using chest X-ray images.
+- I’ve deployed the Pneumonia Detection Web App for real-time inference using chest X-ray images.
 
-🔗 Try it here: Pneumonia X-ray Detector on Hugging Face
+🔗 Try it here: Pneumonia X-ray Detector on Hugging Face https://huggingface.co/spaces/hp733/pneumonia-xray-detector
 🧠 Powered by an ensemble of deep learning models with Grad-CAM visualizations for interpretability.
 
-⚡ Get results in just 3–4 seconds — simply upload a chest X-ray and receive an instant diagnosis 
+-⚡ Get results in just 3–4 seconds — simply upload a chest X-ray and receive an instant diagnosis 
 
 
 
