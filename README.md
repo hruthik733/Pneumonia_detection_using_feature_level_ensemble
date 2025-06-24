@@ -50,23 +50,24 @@ Here is the final ensemble model. You can check it out here: [Final Ensemble Mod
 
 https://github.com/user-attachments/assets/3134196e-d6b6-4092-9317-51d50af2f460
 
-# 🚀 Live Pneumonia Detection Web App
+## 🚀 LIVE PNEUMONIA DETECTION WEB APP
 
-Experience real-time pneumonia detection using chest X-ray images — deployed and ready for use!
+> 🩺 **Real-time Pneumonia Detection using Chest X-ray Images**  
+> ⚡ Powered by deep learning ensemble + Grad-CAM for explainability  
+> 🕒 **Get results in 3–4 seconds! Just upload and diagnose.**
 
-🧠 **Powered by** an ensemble of deep learning models with **Grad-CAM visualizations** for transparent decision-making.
+---
 
-⚡ **Fast Results:** Upload a chest X-ray and get an AI-powered diagnosis in just **3–4 seconds**.
-
-<h3 align="center">🧪✨ <strong>Try the App Now</strong> ✨🧪</h3>
+<h2 align="center">🧪🔬 <strong>TRY IT LIVE</strong> 🔬🧪</h2>
 
 <p align="center">
   <a href="https://huggingface.co/spaces/hp733/pneumonia-xray-detector" target="_blank">
-    <img src="https://img.shields.io/badge/👉%20Launch%20Pneumonia%20Detector-%20Click%20Here-ff69b4?style=for-the-badge&logo=huggingface&logoColor=white" alt="Launch App on Hugging Face"/>
+    <img src="https://img.shields.io/badge/CLICK%20TO%20LAUNCH-LIVE%20APP-ff3366?style=for-the-badge&logo=huggingface&logoColor=white" alt="Launch App on Hugging Face"/>
   </a>
 </p>
 
 ---
+
 
 
 
