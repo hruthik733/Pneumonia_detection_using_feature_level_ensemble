@@ -16,7 +16,7 @@ Experience real-time pneumonia detection using chest X-ray images — deployed a
 
 ---
 
-# Pneumonia Detection Using Feature-Level Ensemble of CNNs
+## Pneumonia Detection Using Feature-Level Ensemble of CNNs
 
 ## Project Overview
 This project focuses on detecting pneumonia from chest X-ray images using a feature-level ensemble method that combines the strengths of multiple pre-trained Convolutional Neural Network (CNN) models. By leveraging models like VGG19 and EfficientNetB0, we aim to significantly enhance the accuracy of pneumonia detection. Additionally, we integrate Grad-CAM to generate visual heatmaps, allowing for more interpretable predictions by highlighting the areas of the lungs affected by pneumonia. The ultimate goal of this project is to build an efficient diagnostic tool that can assist healthcare professionals, particularly in resource-constrained environments, in making faster and more accurate decisions.
