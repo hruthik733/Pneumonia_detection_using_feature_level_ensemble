@@ -1,3 +1,21 @@
+# 🚀 Live Pneumonia Detection Web App
+
+Experience real-time pneumonia detection using chest X-ray images — deployed and ready for use!
+
+🧠 **Powered by** an ensemble of deep learning models with **Grad-CAM visualizations** for transparent decision-making.
+
+⚡ **Fast Results:** Upload a chest X-ray and get an AI-powered diagnosis in just **3–4 seconds**.
+
+<h3 align="center">🧪✨ <strong>Try the App Now</strong> ✨🧪</h3>
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/hp733/pneumonia-xray-detector" target="_blank">
+    <img src="https://img.shields.io/badge/👉%20Launch%20Pneumonia%20Detector-%20Click%20Here-ff69b4?style=for-the-badge&logo=huggingface&logoColor=white" alt="Launch App on Hugging Face"/>
+  </a>
+</p>
+
+---
+
 # Pneumonia Detection Using Feature-Level Ensemble of CNNs
 
 ## Project Overview
@@ -49,24 +67,6 @@ Our ensemble approach involves extracting and concatenating features from multip
 Here is the final ensemble model. You can check it out here: [Final Ensemble Model](https://drive.google.com/file/d/1otsIiZJ0dxHbyxcCZMYL772bRyQGVdck/view?usp=drive_link).
 
 https://github.com/user-attachments/assets/3134196e-d6b6-4092-9317-51d50af2f460
-
-## 🚀 Live Pneumonia Detection Web App
-
-Experience real-time pneumonia detection using chest X-ray images — deployed and ready for use!
-
-🧠 **Powered by** an ensemble of deep learning models with **Grad-CAM visualizations** for transparent decision-making.
-
-⚡ **Fast Results:** Upload a chest X-ray and get an AI-powered diagnosis in just **3–4 seconds**.
-
----
-
-<h3 align="center">🧪✨ <strong>Try the App Now</strong> ✨🧪</h3>
-
-<p align="center">
-  <a href="https://huggingface.co/spaces/hp733/pneumonia-xray-detector" target="_blank">
-    <img src="https://img.shields.io/badge/👉%20Launch%20Pneumonia%20Detector-%20Click%20Here-ff69b4?style=for-the-badge&logo=huggingface&logoColor=white" alt="Launch App on Hugging Face"/>
-  </a>
-</p>
 
 
 
