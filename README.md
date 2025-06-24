@@ -58,13 +58,16 @@ Experience real-time pneumonia detection using chest X-ray images — deployed a
 
 ⚡ **Fast Results:** Upload a chest X-ray and get an AI-powered diagnosis in just **3–4 seconds**.
 
-🔗 **Try it now:**
+---
+
+<h3 align="center">🧪✨ <strong>Try the App Now</strong> ✨🧪</h3>
 
 <p align="center">
   <a href="https://huggingface.co/spaces/hp733/pneumonia-xray-detector" target="_blank">
-    <img src="https://img.shields.io/badge/Launch%20App-HuggingFace-blue?style=for-the-badge&logo=huggingface&logoColor=white" alt="Launch App on Hugging Face"/>
+    <img src="https://img.shields.io/badge/👉%20Launch%20Pneumonia%20Detector-%20Click%20Here-ff69b4?style=for-the-badge&logo=huggingface&logoColor=white" alt="Launch App on Hugging Face"/>
   </a>
 </p>
+
 
 
 
