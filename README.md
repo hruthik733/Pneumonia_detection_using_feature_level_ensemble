@@ -1,5 +1,23 @@
 # Pneumonia Detection Using Feature-Level Ensemble of CNNs
 
+## 🚀 LIVE PNEUMONIA DETECTION WEB APP
+
+> 🩺 **Real-time Pneumonia Detection using Chest X-ray Images**  
+> ⚡ Powered by deep learning ensemble + Grad-CAM for explainability  
+> 🕒 **Get results in <3 seconds! Just upload and diagnose.**
+
+---
+
+<h2 align="center">🧪🔬 <strong>TRY IT LIVE</strong> 🔬🧪</h2>
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/hp733/Pneumonia_detection_using_Feature-level_Ensemble_Learning" target="_blank">
+    <img src="https://img.shields.io/badge/CLICK%20TO%20LAUNCH-LIVE%20APP-ff3366?style=for-the-badge&logo=huggingface&logoColor=white" alt="Launch App on Hugging Face"/>
+  </a>
+</p>
+
+---
+
 ## Project Overview
 This project focuses on detecting pneumonia from chest X-ray images using a feature-level ensemble method that combines the strengths of multiple pre-trained Convolutional Neural Network (CNN) models. By leveraging models like VGG19 and EfficientNetB0, we aim to significantly enhance the accuracy of pneumonia detection. Additionally, we integrate Grad-CAM to generate visual heatmaps, allowing for more interpretable predictions by highlighting the areas of the lungs affected by pneumonia. The ultimate goal of this project is to build an efficient diagnostic tool that can assist healthcare professionals, particularly in resource-constrained environments, in making faster and more accurate decisions.
 
@@ -50,23 +68,6 @@ Here is the final ensemble model. You can check it out here: [Final Ensemble Mod
 
 https://github.com/user-attachments/assets/3134196e-d6b6-4092-9317-51d50af2f460
 
-## 🚀 LIVE PNEUMONIA DETECTION WEB APP
-
-> 🩺 **Real-time Pneumonia Detection using Chest X-ray Images**  
-> ⚡ Powered by deep learning ensemble + Grad-CAM for explainability  
-> 🕒 **Get results in <3 seconds! Just upload and diagnose.**
-
----
-
-<h2 align="center">🧪🔬 <strong>TRY IT LIVE</strong> 🔬🧪</h2>
-
-<p align="center">
-  <a href="https://huggingface.co/spaces/hp733/Pneumonia_detection_using_Feature-level_Ensemble_Learning" target="_blank">
-    <img src="https://img.shields.io/badge/CLICK%20TO%20LAUNCH-LIVE%20APP-ff3366?style=for-the-badge&logo=huggingface&logoColor=white" alt="Launch App on Hugging Face"/>
-  </a>
-</p>
-
----
 
 
 
