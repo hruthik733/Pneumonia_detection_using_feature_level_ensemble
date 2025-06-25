@@ -54,14 +54,14 @@ https://github.com/user-attachments/assets/3134196e-d6b6-4092-9317-51d50af2f460
 
 > 🩺 **Real-time Pneumonia Detection using Chest X-ray Images**  
 > ⚡ Powered by deep learning ensemble + Grad-CAM for explainability  
-> 🕒 **Get results in 3–4 seconds! Just upload and diagnose.**
+> 🕒 **Get results in <3 seconds! Just upload and diagnose.**
 
 ---
 
 <h2 align="center">🧪🔬 <strong>TRY IT LIVE</strong> 🔬🧪</h2>
 
 <p align="center">
-  <a href="https://huggingface.co/spaces/hp733/pneumonia-xray-detector" target="_blank">
+  <a href="https://huggingface.co/spaces/hp733/Pneumonia_detection_using_Feature-level_Ensemble_Learning" target="_blank">
     <img src="https://img.shields.io/badge/CLICK%20TO%20LAUNCH-LIVE%20APP-ff3366?style=for-the-badge&logo=huggingface&logoColor=white" alt="Launch App on Hugging Face"/>
   </a>
 </p>
