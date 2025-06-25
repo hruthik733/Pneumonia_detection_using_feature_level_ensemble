@@ -25,7 +25,6 @@ This project focuses on detecting pneumonia from chest X-ray images using a **fe
 To improve interpretability, we integrate **Grad-CAM** to generate visual heatmaps, which help users understand the decision-making process of the model. These visualizations highlight areas of the chest X-ray that the model focused on while making a prediction, thus improving transparency and trust.
 
 > ⚠️ **Note**: The Grad-CAM heatmaps reflect the **model's attention**, not exact disease localization. Since the model is trained on whole X-ray images (not pixel-level segmented data), the heatmaps highlight regions that **influenced the prediction**, which may correlate with clinical features but do not guarantee accurate localization of pneumonia-affected areas.  
-> The included heatmap images serve an **explanatory purpose only** and should not be interpreted as direct indicators of infection zones.
 
 ---
 
