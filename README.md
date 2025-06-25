@@ -20,11 +20,12 @@
 
 ## 🧠 Project Overview
 
-This project presents an end-to-end deep learning pipeline for detecting pneumonia from chest X-ray images. It uses a **feature-level ensemble approach**, combining multiple pre-trained CNNs (VGG19, EfficientNetB0, DenseNet121) to leverage the unique strengths of each architecture. This ensemble improves classification performance and generalization.
+This project focuses on detecting pneumonia from chest X-ray images using a **feature-level ensemble** method that combines the strengths of multiple pre-trained Convolutional Neural Network (CNN) models. By leveraging architectures like **VGG19**, **EfficientNetB0**, and **DenseNet121**, we aim to significantly enhance the accuracy and generalizability of pneumonia detection by **leveraging the unique strengths of each architecture**.
 
-To increase transparency, we integrate **Grad-CAM** for visual explanation of predictions. While the model is not trained on segmented pneumonia regions, Grad-CAM highlights areas of the image that most influenced the model’s decision — making it easier for users to interpret the results.
+To improve interpretability, we integrate **Grad-CAM** to generate visual heatmaps, which help users understand the decision-making process of the model. These visualizations highlight areas of the chest X-ray that the model focused on while making a prediction, thus improving transparency and trust.
 
-> ⚠️ **Note**: The heatmaps indicate the **model’s attention**, not exact disease localization. Since the model is trained on full images, it identifies areas that influenced predictions, which can correlate with clinical features but are not guaranteed to match pathological regions.
+> ⚠️ **Note**: The Grad-CAM heatmaps reflect the **model's attention**, not exact disease localization. Since the model is trained on whole X-ray images (not pixel-level segmented data), the heatmaps highlight regions that **influenced the prediction**, which may correlate with clinical features but do not guarantee accurate localization of pneumonia-affected areas.  
+> The included heatmap images serve an **explanatory purpose only** and should not be interpreted as direct indicators of infection zones.
 
 ---
 
