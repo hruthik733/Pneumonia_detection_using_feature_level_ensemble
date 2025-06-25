@@ -18,13 +18,22 @@
 
 ---
 
-## Project Overview
-This project focuses on detecting pneumonia from chest X-ray images using a feature-level ensemble method that combines the strengths of multiple pre-trained Convolutional Neural Network (CNN) models. By leveraging models like VGG19 and EfficientNetB0, we aim to significantly enhance the accuracy of pneumonia detection. Additionally, we integrate Grad-CAM to generate visual heatmaps, allowing for more interpretable predictions by highlighting the areas of the lungs affected by pneumonia. The ultimate goal of this project is to build an efficient diagnostic tool that can assist healthcare professionals, particularly in resource-constrained environments, in making faster and more accurate decisions.
+## 🧠 Project Overview
 
-##Key Highlights
-Feature-Level Ensembling: Combines features extracted from multiple CNN models, leveraging their individual strengths for improved classification accuracy.
-Interpretability with Grad-CAM: Provides visual explanations of the model's decisions by localizing pneumonia-affected areas in chest X-ray images, making the results more transparent for medical professionals.
-Impact on Healthcare: This automated tool aims to bridge the gap in diagnostic capabilities, especially in rural or resource-limited areas where access to radiologists is minimal.
+This project presents an end-to-end deep learning pipeline for detecting pneumonia from chest X-ray images. It uses a **feature-level ensemble approach**, combining multiple pre-trained CNNs (VGG19, EfficientNetB0, DenseNet121) to leverage the unique strengths of each architecture. This ensemble improves classification performance and generalization.
+
+To increase transparency, we integrate **Grad-CAM** for visual explanation of predictions. While the model is not trained on segmented pneumonia regions, Grad-CAM highlights areas of the image that most influenced the model’s decision — making it easier for users to interpret the results.
+
+> ⚠️ **Note**: The heatmaps indicate the **model’s attention**, not exact disease localization. Since the model is trained on full images, it identifies areas that influenced predictions, which can correlate with clinical features but are not guaranteed to match pathological regions.
+
+---
+
+## ✨ Key Highlights
+
+- 🔗 **Feature-Level Ensemble**: Combines feature representations from multiple CNN models to boost accuracy and robustness.
+- 🔍 **Explainability with Grad-CAM**: Generates attention heatmaps to visualize what parts of the image contributed most to the model’s decision.
+- 🩺 **Clinical Relevance**: Supports rapid screening in areas lacking medical infrastructure, aiding early detection and treatment of pneumonia.
+- 🌐 **Deployed Web App**: Live inference app hosted on Hugging Face Spaces allows instant user interaction and real-time diagnosis.
 
 ## Objectives
 - Achieve high accuracy in pneumonia detection by combining features from multiple pre-trained CNN architectures.
@@ -38,6 +47,7 @@ Impact on Healthcare: This automated tool aims to bridge the gap in diagnostic c
 - **Pre-trained Models**: VGG19, EfficientNetB0, DenseNet121
 - **Visualization**: Grad-CAM
 - **Development Environment**: Google Colab
+- **Deployment: Hugging Face Spaces (with Gradio)
 
 ## Ensemble Model Architecture
 Our ensemble approach involves extracting and concatenating features from multiple CNN models at a specific layer (usually the final convolutional layers) before feeding them into a fully connected layer for classification. This approach ensures that the strengths of each architecture are utilized, leading to improved performance over individual models.
