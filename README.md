@@ -71,14 +71,7 @@ Our ensemble approach involves extracting and concatenating features from multip
 - Testing on Multiple Datasets: Validate the model on other medical image datasets (e.g., lung cancer X-rays) to ensure robustness across different respiratory diseases.
 - Deployment: Integrate the model into a user-friendly web interface using Flask or Django for real-world clinical use.
 
-## 📄 Publication
 
-[![Published in Springer](https://img.shields.io/badge/Published%20In-Springer%20Nature-brightgreen)](https://doi.org/10.1007/978-981-96-7253-0_26)
-
-This research has been published in **Springer Nature** as part of the  
-*Proceedings of the 9th International Conference on Micro-Electronics, Electromagnetics and Telecommunications (ICMEET 2024), NIT Mizoram.*
-
-🔗 **DOI:** [https://doi.org/10.1007/978-981-96-7253-0_26](https://doi.org/10.1007/978-981-96-7253-0_26)
 
 ## Final Ensemble Model
 
@@ -87,7 +80,12 @@ Here is the final ensemble model. You can check it out here: [Final Ensemble Mod
 https://github.com/user-attachments/assets/3134196e-d6b6-4092-9317-51d50af2f460
 
 
+## 📄 Publication
 
+[![Published in Springer](https://img.shields.io/badge/Published%20In-Springer%20Nature-brightgreen)](https://doi.org/10.1007/978-981-96-7253-0_26)
 
+This research has been published in **Springer Nature** as part of the  
+*Proceedings of the 9th International Conference on Micro-Electronics, Electromagnetics and Telecommunications (ICMEET 2024), NIT Mizoram.*
 
+🔗 **DOI:** [https://doi.org/10.1007/978-981-96-7253-0_26](https://doi.org/10.1007/978-981-96-7253-0_26)
 
