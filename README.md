@@ -84,8 +84,20 @@ https://github.com/user-attachments/assets/3134196e-d6b6-4092-9317-51d50af2f460
 
 [![Published in Springer](https://img.shields.io/badge/Published%20In-Springer%20Nature-brightgreen)](https://doi.org/10.1007/978-981-96-7253-0_26)
 
-This research has been published in **Springer Nature** as part of the  
-*Proceedings of the 9th International Conference on Micro-Electronics, Electromagnetics and Telecommunications (ICMEET 2024), NIT Mizoram.*
+This work was published in **Springer Nature** as part of the  
+*Proceedings of the 9th International Conference on Micro-Electronics, Electromagnetics and Telecommunication (ICMEET 2024), NIT Mizoram.*
 
 🔗 **DOI:** [https://doi.org/10.1007/978-981-96-7253-0_26](https://doi.org/10.1007/978-981-96-7253-0_26)
 
+---
+
+### 📚 Citation
+```bibtex
+@inproceedings{hruthik2024pneumonia,
+  title={Pneumonia Detection in Chest X-Rays Using Feature-Level Ensemble Learning},
+  author={Hruthik Krishna, P and Pranathi, K and Ganesh, K and Surya, K},
+  booktitle={International Conference on Microelectronics, Electromagnetics and Telecommunication},
+  pages={309--322},
+  year={2024},
+  organization={Springer}
+}
