@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Explainability-GradCAM-brightgreen"/>
   <img src="https://img.shields.io/badge/Dataset-Chest%20X--Ray%20(NIH%20%2B%20Kaggle)-lightgrey"/>
   <img src="https://img.shields.io/badge/Deployment-HuggingFace%20Spaces-ffcc00"/>
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success"/>
   <img src="https://img.shields.io/badge/License-MIT-blueviolet"/>
 </p>
 
