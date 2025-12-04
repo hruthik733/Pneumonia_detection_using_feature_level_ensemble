@@ -1,4 +1,17 @@
 # Pneumonia Detection Using Feature-Level Ensemble of CNNs
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue"/>
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-orange"/>
+  <img src="https://img.shields.io/badge/Keras-Deep%20Learning-red"/>
+  <img src="https://img.shields.io/badge/Model-Feature%20Level%20Ensemble-yellow"/>
+  <img src="https://img.shields.io/badge/Explainability-GradCAM-brightgreen"/>
+  <img src="https://img.shields.io/badge/Dataset-Chest%20X--Ray%20(NIH%20%2B%20Kaggle)-lightgrey"/>
+  <img src="https://img.shields.io/badge/Deployment-HuggingFace%20Spaces-ffcc00"/>
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-success"/>
+  <img src="https://img.shields.io/badge/License-MIT-blueviolet"/>
+</p>
+
+---
 
 ## 🚀 LIVE PNEUMONIA DETECTION WEB APP
 
