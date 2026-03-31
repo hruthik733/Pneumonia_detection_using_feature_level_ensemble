@@ -1,0 +1,15 @@
+name: Register HF Deployment
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: Production (HF Space)
+      url: https://huggingface.co/spaces/hruthik733/Pneumonia_detection_using_Feature-level_Ensemble_Learning
+
+    steps:
+      - name: Register deployment
+        run: echo "HF Space linked as deployment"
